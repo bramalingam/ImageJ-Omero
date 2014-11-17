@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/bramalingam/Documents/Jars_Eclipse_ImageJ/bioformats_package.jar"/>
+	<classpathentry kind="lib" path="/Users/bramalingam/Documents/Jars_Eclipse_ImageJ/omero_ij.jar"/>
+	<classpathentry kind="lib" path="/Users/bramalingam/Documents/Jars_Eclipse_ImageJ/guava.jar"/>
+	<classpathentry kind="lib" path="/Users/bramalingam/Documents/Jars_Eclipse_ImageJ/log4j.jar"/>
+	<classpathentry kind="lib" path="/Users/bramalingam/Documents/Jars_Eclipse_ImageJ/omero_client.jar"/>
+	<classpathentry kind="lib" path="/Users/bramalingam/Documents/Jars_Eclipse_ImageJ/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="/Users/bramalingam/Documents/Jars_Eclipse_ImageJ/slf4j-log4j12.jar"/>
+	<classpathentry kind="lib" path="/Users/bramalingam/Documents/Jars_Eclipse_ImageJ/ij.jar"/>
+	<classpathentry kind="lib" path="/Users/bramalingam/Documents/Jars_Eclipse_ImageJ/ini4j.jar"/>
+	<classpathentry kind="output" path="plugins"/>
+</classpath>
